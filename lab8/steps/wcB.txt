@@ -1,0 +1,8 @@
+   4    4   88 steps/findA.txt
+  49   49 1693 steps/findB.txt
+   2   13  121 steps/grepA.txt
+   1    9   58 steps/grepB.txt
+  39   39 2687 steps/locateA.txt
+   1    1    5 steps/locateB.txt
+   1    4   30 steps/wcA.txt
+  97  119 4682 total

@@ -1,0 +1,24 @@
+total 80
+drwxr-xr-x.  2 root root 4096 Jun 14 09:39 account
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 adm
+drwxr-xr-x. 18 root root 4096 Nov  9 18:22 cache
+drwxr-xr-x.  2 root root 4096 Jul  3 18:42 crash
+drwxr-xr-x.  3 root root 4096 Nov  9 18:11 db
+drwxr-xr-x.  3 root root 4096 Jun 14 09:39 empty
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 ftp
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 games
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 gopher
+drwxr-xr-x.  3 root root 4096 Sep 30 10:04 kerberos
+drwxr-xr-x. 59 root root 4096 Nov  9 18:23 lib
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 local
+lrwxrwxrwx.  1 root root   11 Jun 14 09:32 lock -> ../run/lock
+drwxr-xr-x. 18 root root 4096 Nov  9 18:45 log
+lrwxrwxrwx.  1 root root   10 Feb  3  2016 mail -> spool/mail
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 nis
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 opt
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 preserve
+lrwxrwxrwx.  1 root root    6 Jun 14 09:32 run -> ../run
+drwxr-xr-x. 11 root root 4096 Jun 14 09:39 spool
+drwxrwxrwt.  6 root root 4096 Nov  9 18:57 tmp
+drwxr-xr-x.  4 root root 4096 Jul 18 08:47 www
+drwxr-xr-x.  2 root root 4096 Feb  3  2016 yp

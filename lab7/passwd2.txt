@@ -1,0 +1,2 @@
+labTech223:x:1235:1239:Linux Course:/home/labTech223:/bin/bash
+n251Lab:x:1236:1237:A251:/home/n251Lab:/bin/bash

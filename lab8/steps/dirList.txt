@@ -1,0 +1,76 @@
+.:
+total 16K
+drwxr-xr-x. 2 root    root    4.0K Nov 15 15:25 alsa-utils
+drwxrwxr-x. 2 student student 4.0K Nov 15 15:23 configs
+drwxrwxr-x. 2 student student 4.0K Nov 15 16:11 manuals
+drwxrwxr-x. 2 student student 4.0K Nov 15 16:17 steps
+
+./alsa-utils:
+total 32K
+-rw-r--r--. 1 root root 1.1K Nov 15 15:25 ChangeLog
+-rw-r--r--. 1 root root  18K Nov 15 15:25 COPYING
+-rw-r--r--. 1 root root  758 Nov 15 15:25 README
+-rw-r--r--. 1 root root  187 Nov 15 15:25 TODO
+
+./configs:
+total 296K
+-rw-r--r--. 1 root root   55 Nov 15 15:23 asound.conf
+-rw-r--r--. 1 root root  23K Nov 15 15:23 brltty.conf
+-rw-r--r--. 1 root root  808 Nov 15 15:23 chrony.conf
+-rw-r--r--. 1 root root 1.2K Nov 15 15:23 dleyna-server-service.conf
+-rw-r--r--. 1 root root  27K Nov 15 15:23 dnsmasq.conf
+-rw-r--r--. 1 root root  117 Nov 15 15:23 dracut.conf
+-rw-r--r--. 1 root root  115 Nov 15 15:23 e2fsck.conf
+lrwxrwxrwx. 1 root root   30 Nov 15 15:23 extlinux.conf -> ../boot/extlinux/extlinux.conf
+-rw-r--r--. 1 root root   20 Nov 15 15:23 fprintd.conf
+-rw-r--r--. 1 root root   38 Nov 15 15:23 fuse.conf
+-rw-r--r--. 1 root root  402 Nov 15 15:23 fwupd.conf
+-rw-r--r--. 1 root root  871 Nov 15 15:23 hba.conf
+-rw-r--r--. 1 root root    9 Nov 15 15:23 host.conf
+-rw-r--r--. 1 root root 3.5K Nov 15 15:23 idmapd.conf
+-rw-r--r--. 1 root root 2.1K Nov 15 15:23 ipsec.conf
+-rw-r--r--. 1 root root  73K Nov 15 15:23 jwhois.conf
+-rw-r--r--. 1 root root 7.0K Nov 15 15:23 kdump.conf
+-rw-r--r--. 1 root root  677 Nov 15 15:23 krb5.conf
+-rw-r--r--. 1 root root   28 Nov 15 15:23 ld.so.conf
+-rw-r-----. 1 root root  191 Nov 15 15:23 libaudit.conf
+-rw-r--r--. 1 root root 2.4K Nov 15 15:23 libuser.conf
+-rw-r--r--. 1 root root   19 Nov 15 15:23 locale.conf
+-rw-r--r--. 1 root root  665 Nov 15 15:23 logrotate.conf
+-rw-r--r--. 1 root root 5.1K Nov 15 15:23 man_db.conf
+-rw-r--r--. 1 root root  424 Nov 15 15:23 memtest86+.conf
+-rw-r--r--. 1 root root  967 Nov 15 15:23 mke2fs.conf
+-rw-r--r--. 1 root root 2.6K Nov 15 15:23 mtools.conf
+-rw-r--r--. 1 root root 3.6K Nov 15 15:23 nfsmount.conf
+-rw-r--r--. 1 root root 1.7K Nov 15 15:23 nsswitch.conf
+-rw-r--r--. 1 root root   99 Nov 15 15:23 passwdqc.conf
+-rw-r--r--. 1 root root  433 Nov 15 15:23 radvd.conf
+-rw-r--r--. 1 root root 1.8K Nov 15 15:23 request-key.conf
+lrwxrwxrwx. 1 root root   35 Nov 15 15:23 resolv.conf -> /var/run/NetworkManager/resolv.conf
+-rw-r--r--. 1 root root 5.2K Nov 15 15:23 rygel.conf
+-rw-r--r--. 1 root root  216 Nov 15 15:23 sestatus.conf
+-rw-r--r--. 1 root root  256 Nov 15 15:23 sos.conf
+-rw-r--r--. 1 root root  449 Nov 15 15:23 sysctl.conf
+-rw-------. 1 root root 6.9K Nov 15 15:23 tcsd.conf
+-rw-r--r--. 1 root root   45 Nov 15 15:23 Trolltech.conf
+-rw-r--r--. 1 root root  587 Nov 15 15:23 updatedb.conf
+-rw-r--r--. 1 root root 1018 Nov 15 15:23 usb_modeswitch.conf
+-rw-r--r--. 1 root root   28 Nov 15 15:23 vconsole.conf
+-rw-r--r--. 1 root root    0 Nov 15 15:23 wvdial.conf
+-rw-r--r--. 1 root root  589 Nov 15 15:23 xattr.conf
+
+./manuals:
+total 12K
+-rw-r--r--. 1 student student 12K Nov 15 16:11 tar.1.gz
+
+./steps:
+total 32K
+-rw-rw-r--. 1 student student    0 Nov 15 16:17 dirList.txt
+-rw-rw-r--. 1 student student   88 Nov 15 15:53 findA.txt
+-rw-rw-r--. 1 student student 1.7K Nov 15 16:09 findB.txt
+-rw-rw-r--. 1 student student  121 Nov 15 15:31 grepA.txt
+-rw-rw-r--. 1 student student   58 Nov 15 15:37 grepB.txt
+-rw-rw-r--. 1 student student 2.7K Nov 15 15:42 locateA.txt
+-rw-rw-r--. 1 student student    5 Nov 15 15:43 locateB.txt
+-rw-rw-r--. 1 student student   30 Nov 15 16:16 wcA.txt
+-rw-rw-r--. 1 student student  240 Nov 15 16:16 wcB.txt

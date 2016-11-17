@@ -1,0 +1,18 @@
+hello=thisiscool
+echo "hello"
+telnet towel.blinkenlights.nl
+I can type now that I'm in insert mode.
+This is text
+woo hoo!
+
+Section 1
+	This is
+	content
+	for
+	section one
+
+
+Section 2
+	More
+	content
+	section2

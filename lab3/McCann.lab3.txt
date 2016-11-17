@@ -1,0 +1,46 @@
+lab3/:
+total 8
+-rw-rw-r--. 1 student student    0 Oct  8 12:53 caleb.mccann
+drwxrwxr-x. 2 student student 4096 Oct  8 14:22 Help
+drwxr-xr-x. 5 student student 4096 Oct  9 11:01 Spring
+
+lab3/Help:
+total 20
+-rw-rw-r--. 1 student student 5688 Oct  8 14:20 cp.manPage.txt
+-rw-rw-r--. 1 student student 2989 Oct  8 14:20 mv.manPage.txt
+-rw-rw-r--. 1 student student 3607 Oct  8 14:20 rm.manPage.txt
+-rw-rw-r--. 1 student student 2952 Oct  8 14:22 touch.notes
+
+lab3/Spring:
+total 12
+drwxrwxr-x. 2 student student 4096 Oct  9 11:13 April
+drwxrwxr-x. 2 student student 4096 Oct  8 12:46 June
+drwxrwxr-x. 2 student student 4096 Oct  8 12:49 May
+
+lab3/Spring/April:
+total 0
+-rw-rw-r--. 1 student student 0 Oct  8 12:44 data1
+-rw-rw-r--. 1 student student 0 Oct  8 12:44 data7
+-rw-rw-r--. 1 student student 0 Oct  8 12:44 data8
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 work3
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 work4
+
+lab3/Spring/June:
+total 0
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 data2
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 data4
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 data6
+-rw-rw-r--. 1 student student 0 Oct  8 12:46 finding3
+-rw-rw-r--. 1 student student 0 Oct  8 12:46 finding7
+
+lab3/Spring/May:
+total 0
+-rw-rw-r--. 1 student student 0 Oct  8 12:44 data1
+-rw-rw-r--. 1 student student 0 Oct  8 12:45 data7
+-rw-rw-r--. 1 student student 0 Oct  8 12:45 data8
+-rw-rw-r--. 1 student student 0 Oct  8 12:48 finding4
+-rw-rw-r--. 1 student student 0 Oct  8 12:48 finding5
+-rw-rw-r--. 1 student student 0 Oct  8 12:49 finding6
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 work1
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 work6
+-rw-rw-r--. 1 student student 0 Oct  8 12:39 work9

@@ -1,0 +1,4 @@
+36K	alsa-utils
+300K	configs
+16K	manuals
+44K	steps

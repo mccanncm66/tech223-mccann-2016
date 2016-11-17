@@ -1,0 +1,18 @@
+==> group.txt <==
+labTux:x:1237:labTech223
+labDoughnut:x:1238:
+labTech223:x:1239:
+
+==> idLab.txt <==
+uid=1236(n251Lab) gid=1237(labTux) groups=1237(labTux)
+
+==> idTech223.txt <==
+uid=1235(labTech223) gid=1239(labTech223) groups=1239(labTech223),1237(labTux)
+
+==> passwd.txt <==
+labTech223:x:1235:1239:Linux Course:/home/labTech223:/bin/bash
+n251Lab:x:1236:1237:A251:/home/n251Lab:/bin/bash
+
+==> shawdow.txt <==
+labTech223:$6$drSCgTwC$lKrCCvdabNe4Yd4X58hrZkXyPgWVTiqnJ9kqqpbZ1TXo3VvQTNfEQBy2ffU/I0MGQ6MPRhOfD2wqGUzaOzNbK.:17112:0:99999:7:::
+n251Lab:$6$92JCxEX5$M3P0CQ.KPxbXDJOkhsAYBX.JHwlX2O5lDC2IMhzV9MyRR/6Hbn4M0EAQUlxEb/Sq8BxpU1KsKYcWlNSdU8zX91:17112:0:99999:7:::
